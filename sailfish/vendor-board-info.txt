@@ -1,0 +1,3 @@
+require board=sailfish
+require version-bootloader=8996-012001-1711291800
+require version-baseband=8996-130091-1802061512
